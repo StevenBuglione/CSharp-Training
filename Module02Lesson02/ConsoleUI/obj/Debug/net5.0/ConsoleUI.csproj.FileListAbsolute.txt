@@ -1,0 +1,15 @@
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/ConsoleUI.deps.json
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/ConsoleUI.runtimeconfig.json
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/ConsoleUI.runtimeconfig.dev.json
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/ConsoleUI.dll
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/ref/ConsoleUI.dll
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/ConsoleUI.pdb
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/ConsoleUI.csprojAssemblyReference.cache
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/ConsoleUI.AssemblyInfo.cs
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/ConsoleUI.dll
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/ref/ConsoleUI.dll
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/ConsoleUI.pdb
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/ConsoleUI.genruntimeconfig.cache

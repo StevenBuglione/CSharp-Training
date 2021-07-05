@@ -1,0 +1,15 @@
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/obj/Debug/net5.0/Module02Lesson02Homework.csprojAssemblyReference.cache
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/obj/Debug/net5.0/Module02Lesson02Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/obj/Debug/net5.0/Module02Lesson02Homework.AssemblyInfoInputs.cache
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/obj/Debug/net5.0/Module02Lesson02Homework.AssemblyInfo.cs
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/obj/Debug/net5.0/Module02Lesson02Homework.csproj.CoreCompileInputs.cache
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/bin/Debug/net5.0/Module02Lesson02Homework.deps.json
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/bin/Debug/net5.0/Module02Lesson02Homework.runtimeconfig.json
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/bin/Debug/net5.0/Module02Lesson02Homework.runtimeconfig.dev.json
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/bin/Debug/net5.0/Module02Lesson02Homework.dll
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/bin/Debug/net5.0/ref/Module02Lesson02Homework.dll
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/bin/Debug/net5.0/Module02Lesson02Homework.pdb
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/obj/Debug/net5.0/Module02Lesson02Homework.dll
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/obj/Debug/net5.0/ref/Module02Lesson02Homework.dll
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/obj/Debug/net5.0/Module02Lesson02Homework.pdb
+/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/obj/Debug/net5.0/Module02Lesson02Homework.genruntimeconfig.cache
