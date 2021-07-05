@@ -1,19 +1,11 @@
 ﻿<Properties StartupConfiguration="{5BF3E54B-2C11-4441-8111-3069F4CA1ABF}|Default">
   <MonoDevelop.Ide.ItemProperties.Homework.Module02Lesson02Homework PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Module02Lesson02Homework/Program.cs">
-    <Files>
-      <File FileName="Module02Lesson02Homework/Program.cs" Line="35" Column="75" />
-      <File FileName="ConsoleUI/Program.cs" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Module02Lesson02" expanded="True">
-            <Node name="Homework" expanded="True">
-              <Node name="Module02Lesson02Homework" expanded="True">
-                <Node name="Program.cs" selected="True" />
-              </Node>
-            </Node>
+            <Node name="Lesson" selected="True" />
           </Node>
         </State>
       </Pad>

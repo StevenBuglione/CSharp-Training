@@ -1,0 +1,14 @@
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/Lesson.deps.json
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/Lesson.runtimeconfig.json
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/Lesson.runtimeconfig.dev.json
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/Lesson.dll
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/ref/Lesson.dll
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/bin/Debug/net5.0/Lesson.pdb
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/Lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/Lesson.AssemblyInfoInputs.cache
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/Lesson.AssemblyInfo.cs
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/Lesson.csproj.CoreCompileInputs.cache
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/Lesson.dll
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/ref/Lesson.dll
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/Lesson.pdb
+/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/obj/Debug/net5.0/Lesson.genruntimeconfig.cache
