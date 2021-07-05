@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/ConsoleUI.csproj",
-      "projectName": "ConsoleUI",
-      "projectPath": "/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/ConsoleUI.csproj",
+      "projectUniqueName": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/Lesson.csproj",
+      "projectName": "Lesson",
+      "projectPath": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/Lesson.csproj",
       "packagesPath": "/Users/stevenbuglione/.nuget/packages/",
-      "outputPath": "/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/ConsoleUI/obj/",
+      "outputPath": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stevenbuglione/.config/NuGet/NuGet.Config"

@@ -2,7 +2,7 @@
 
 namespace Module02Lesson02Homework
 {
-    class Program
+    class Homework
     {
         //Homework : Create a Conasole Applicaiton that has variables to hold a person's name,
         //Age, if they are alive, and there phone number

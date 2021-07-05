@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/Module02Lesson02Homework.csproj",
+      "projectUniqueName": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/Module02Lesson02Homework/Module02Lesson02Homework.csproj",
       "projectName": "Module02Lesson02Homework",
-      "projectPath": "/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/Module02Lesson02Homework.csproj",
+      "projectPath": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/Module02Lesson02Homework/Module02Lesson02Homework.csproj",
       "packagesPath": "/Users/stevenbuglione/.nuget/packages/",
-      "outputPath": "/Users/stevenbuglione/Documents/dev/IAMTIMCOREY/Module02Lesson02/Module02Lesson02Homework/obj/",
+      "outputPath": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/Module02Lesson02Homework/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/stevenbuglione/.config/NuGet/NuGet.Config"

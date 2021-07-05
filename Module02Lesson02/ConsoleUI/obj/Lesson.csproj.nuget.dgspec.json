@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/Module02Lesson02Homework/Module02Lesson02Homework.csproj": {}
+    "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/Lesson.csproj": {}
   },
   "projects": {
-    "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/Module02Lesson02Homework/Module02Lesson02Homework.csproj": {
+    "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/Lesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/Module02Lesson02Homework/Module02Lesson02Homework.csproj",
-        "projectName": "Module02Lesson02Homework",
-        "projectPath": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/Module02Lesson02Homework/Module02Lesson02Homework.csproj",
+        "projectUniqueName": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/Lesson.csproj",
+        "projectName": "Lesson",
+        "projectPath": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/Lesson.csproj",
         "packagesPath": "/Users/stevenbuglione/.nuget/packages/",
-        "outputPath": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/Module02Lesson02Homework/obj/",
+        "outputPath": "/Users/stevenbuglione/Documents/CSharp-Training/Module02Lesson02/ConsoleUI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stevenbuglione/.config/NuGet/NuGet.Config"
