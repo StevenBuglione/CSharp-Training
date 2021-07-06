@@ -1,0 +1,15 @@
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/bin/Debug/net5.0/ConsoleUI.deps.json
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/bin/Debug/net5.0/ConsoleUI.runtimeconfig.json
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/bin/Debug/net5.0/ConsoleUI.runtimeconfig.dev.json
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/bin/Debug/net5.0/ConsoleUI.dll
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/bin/Debug/net5.0/ref/ConsoleUI.dll
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/bin/Debug/net5.0/ConsoleUI.pdb
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/obj/Debug/net5.0/ConsoleUI.csprojAssemblyReference.cache
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/obj/Debug/net5.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/obj/Debug/net5.0/ConsoleUI.AssemblyInfoInputs.cache
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/obj/Debug/net5.0/ConsoleUI.AssemblyInfo.cs
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/obj/Debug/net5.0/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/obj/Debug/net5.0/ConsoleUI.dll
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/obj/Debug/net5.0/ref/ConsoleUI.dll
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/obj/Debug/net5.0/ConsoleUI.pdb
+/Users/stevenbuglione/Projects/Module02MiniProject01/ConsoleUI/obj/Debug/net5.0/ConsoleUI.genruntimeconfig.cache
